@@ -1,0 +1,166 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "avatar": "https://i.pravatar.cc/300?img=1",
+      "name": "Manoj Banerjee",
+      "address": "Gujarat, Osmanabad",
+      "standard": 8,
+      "roll": 28,
+      "section": "D"
+    },
+    {
+      "id": 2,
+      "avatar": "https://i.pravatar.cc/300?img=2",
+      "name": "Umang Agarwal",
+      "address": "Karnataka, Amalapuram",
+      "standard": 4,
+      "roll": 47,
+      "section": "D"
+    },
+    {
+      "id": 3,
+      "avatar": "https://i.pravatar.cc/300?img=3",
+      "name": "Adhrit Rana",
+      "address": "Goa, Noorpur",
+      "standard": 12,
+      "roll": 34,
+      "section": "B"
+    },
+    {
+      "id": 4,
+      "avatar": "https://i.pravatar.cc/300?img=4",
+      "name": "Aasha Agarwal",
+      "address": "West Bengal, Periyakulam",
+      "standard": 4,
+      "roll": 31,
+      "section": "D"
+    },
+    {
+      "id": 5,
+      "avatar": "https://i.pravatar.cc/300?img=5",
+      "name": "Opaline Dutta",
+      "address": "Chandigarh, Latur",
+      "standard": 11,
+      "roll": 31,
+      "section": "B"
+    },
+    {
+      "id": 6,
+      "avatar": "https://i.pravatar.cc/300?img=6",
+      "name": "Devvrat Sinha",
+      "address": "Himachal Pradesh, Neyyattinkara",
+      "standard": 5,
+      "roll": 46,
+      "section": "A"
+    },
+    {
+      "id": 7,
+      "avatar": "https://i.pravatar.cc/300?img=7",
+      "name": "Krishna Johar",
+      "address": "Pondicherr, Balurghat",
+      "standard": 7,
+      "roll": 47,
+      "section": "B"
+    },
+    {
+      "id": 8,
+      "avatar": "https://i.pravatar.cc/300?img=8",
+      "name": "Karan Khatri",
+      "address": "Bihar, Jorhat",
+      "standard": 3,
+      "roll": 33,
+      "section": "B"
+    },
+    {
+      "id": 9,
+      "avatar": "https://i.pravatar.cc/300?img=9",
+      "name": "Ayushmati Dubashi",
+      "address": "Uttarakhand, Sagara",
+      "standard": 12,
+      "roll": 20,
+      "section": "B"
+    },
+    {
+      "id": 10,
+      "avatar": "https://i.pravatar.cc/300?img=10",
+      "name": "Dhatri Shukla",
+      "address": "Jharkhand, Rangia",
+      "standard": 3,
+      "roll": 10,
+      "section": "A"
+    },
+    {
+      "id": 11,
+      "avatar": "https://i.pravatar.cc/300?img=11",
+      "name": "Uma Kaniyar",
+      "address": "Chandigarh, Nelamangala",
+      "standard": 9,
+      "roll": 33,
+      "section": "B"
+    },
+    {
+      "id": 12,
+      "avatar": "https://i.pravatar.cc/300?img=12",
+      "name": "Brajendra Gill",
+      "address": "Bihar, Mavelikkara",
+      "standard": 4,
+      "roll": 30,
+      "section": "B"
+    },
+    {
+      "id": 13,
+      "avatar": "https://i.pravatar.cc/300?img=13",
+      "name": "Achintya Bhattacharya",
+      "address": "Assam, Sindhnur",
+      "standard": 4,
+      "roll": 9,
+      "section": "A"
+    },
+    {
+      "id": 14,
+      "avatar": "https://i.pravatar.cc/300?img=14",
+      "name": "Vaishvi Tagore",
+      "address": "Karnataka, Ramdurg",
+      "standard": 1,
+      "roll": 22,
+      "section": "B"
+    },
+    {
+      "id": 15,
+      "avatar": "https://i.pravatar.cc/300?img=15",
+      "name": "Shreya Embranthiri",
+      "address": "Sikkim, Neyyattinkara",
+      "standard": 6,
+      "roll": 4,
+      "section": "D"
+    },
+    {
+      "id": 16,
+      "avatar": "https://i.pravatar.cc/300?img=16",
+      "name": "Sanka Iyer",
+      "address": "Himachal Pradesh, Unnamala",
+      "standard": 12,
+      "roll": 28,
+      "section": "C"
+    },
+    {
+      "id": 17,
+      "avatar": "https://i.pravatar.cc/300?img=17",
+      "name": "Gorakhnath Desai",
+      "address": "Andra Pradesh, Panchkula",
+      "standard": 9,
+      "roll": 2,
+      "section": "B"
+    },
+    {
+      "id": 18,
+      "avatar": "https://i.pravatar.cc/300?img=18",
+      "name": "Bharat Ganaka",
+      "address": "Tripura, Pratapgarh",
+      "standard": 2,
+      "roll": 22,
+      "section": "C"
+    }
+  ]
+}

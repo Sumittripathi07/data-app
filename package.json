@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev:server": "concurrently \"json-server --watch db.json\" \"npm run dev\""
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",

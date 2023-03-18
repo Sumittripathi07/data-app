@@ -2,10 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import "@fontsource/public-sans";
-import { CssVarsProvider } from "@mui/joy";
+import { CssBaseline, CssVarsProvider } from "@mui/joy";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/Index";
 import Students from "./pages/Students";
+import axios from "axios";
+import CreateStudent from "./pages/CreateStudent";
+axios.defaults.baseURL = "http://localhost:3000";
 
 const router = createBrowserRouter([
   {
@@ -19,6 +22,12 @@ const router = createBrowserRouter([
       {
         path: "students",
         element: <Students />,
+        loader: async () => (await axios.get("/students")).data,
+      },
+      {
+        path: "students/create",
+        element: <CreateStudent />,
+        loader: async () => (await axios.get("/students")).data,
       },
     ],
   },
@@ -26,6 +35,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <CssVarsProvider>
-    <RouterProvider router={router} />
+    <CssBaseline>
+      <RouterProvider router={router} />
+    </CssBaseline>
   </CssVarsProvider>
 );
